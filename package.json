@@ -1,6 +1,6 @@
 {
   "name": "homebridge-petkit-platform",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Homebridge plugin for Petkit",
   "main": "index.js",
   "scripts": {
@@ -12,9 +12,9 @@
     "homebridge-plugin",
     "petkit"
   ],
-  "author": "jubepue@gmail.com",
+  "author": "lorenzosp93@gmail.com",
   "license": "MIT",
-  "homepage": "https://github.com/jubepue/homebridge-petkit",
+  "homepage": "https://github.com/lorenzosp93/homebridge-petkit-platform",
   "engines": {
     "node": ">=14.0.0",
     "homebridge": ">=0.2.0"
@@ -27,14 +27,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jubepue/homebridge-petkit-platform.git"
+    "url": "git+https://github.com/lorenzosp93/homebridge-petkit-platform.git"
   },
   "bugs": {
-    "url": "https://github.com/jubepue/homebridge-petkit-platform/issues"
+    "url": "https://github.com/lorenzosp93/homebridge-petkit-platform/issues"
   },
-  "homepage": "https://github.com/jubepue/homebridge-petkit-platform",
-  "funding": {
-    "type": "paypal",
-    "url": "https://paypal.me/jubepue"
-  }
+  "homepage": "https://github.com/lorenzosp93/homebridge-petkit-platform"
 }
