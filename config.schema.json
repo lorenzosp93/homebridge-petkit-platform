@@ -2,7 +2,7 @@
   "pluginAlias": "PetkitPlatform",
   "pluginType": "platform",
   "singular": true,
-  "headerDisplay": "For documentation please see https://github.com/jubepue/petkit-homebridge .",
+  "headerDisplay": "For documentation please see https://github.com/lorenzosp93/homebridge-petkit-platform .",
   "footerDisplay": "",
   "schema": {
     "type": "object",
